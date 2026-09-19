@@ -4,3 +4,4 @@ void func3() {}
 void func4() {}
 void func5() {}
 void task1() {}
+void task2() {}
